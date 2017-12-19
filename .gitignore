@@ -33,3 +33,6 @@
 
 # wat
 .DS_Store
+build/
+dist/
+bx-lexical-cast-*.zip
