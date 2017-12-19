@@ -36,3 +36,5 @@
 build/
 dist/
 bx-lexical-cast-*.zip
+bx-lexical-cast-*.tgz
+bx-lexical-cast-*.tar.gz
